@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="small_content">114dp</dimen>
+    <dimen name="medium_content">229dp</dimen>
+    <dimen name="large_content">400dp</dimen>
+
+    <dimen name="spacing">16dp</dimen>
+
+</resources>
